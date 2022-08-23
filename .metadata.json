@@ -1,5 +1,8 @@
 [
   {
+    "package": "zellkonverter"
+  },
+  {
     "package": "destiny"
   }
 ]
