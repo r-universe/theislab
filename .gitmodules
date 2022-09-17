@@ -8,8 +8,3 @@
 	url = https://github.com/theislab/destiny
 	shallow = true
 	registered = true
-[submodule "zellkonverter"]
-	path = zellkonverter
-	url = https://github.com/theislab/zellkonverter
-	shallow = true
-	registered = true
