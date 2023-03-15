@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "destiny"]
-	path = destiny
-	url = https://github.com/theislab/destiny
-	shallow = true
-	registered = true
 [submodule "zellkonverter"]
 	path = zellkonverter
 	url = https://github.com/theislab/zellkonverter
+	shallow = true
+	registered = true
+[submodule "destiny"]
+	path = destiny
+	url = https://github.com/theislab/destiny
 	shallow = true
 	registered = true
